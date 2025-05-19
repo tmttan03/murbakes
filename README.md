@@ -25,7 +25,7 @@ A cookie business management system built with Next.js and Supabase.
 2. Install dependencies:
 
 \`\`\`bash
-npm install
+npm install --legacy-peer-deps
 \`\`\`
 
 3. Copy the `.env.example` file to `.env.local` and fill in your Supabase credentials:
@@ -37,7 +37,7 @@ cp .env.example .env.local
 4. Run the development server:
 
 \`\`\`bash
-npm run dev
+npm run start:full
 \`\`\`
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
