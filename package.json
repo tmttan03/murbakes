@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "start:full": "concurrently \"npm run dev\" \"cd backend && python manage.py runserver\""
+    "start:full": "concurrently \"npm run dev\" \"cd backend && python manage.py runserver --nothreading --noreload\""
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",

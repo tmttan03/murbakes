@@ -42,6 +42,14 @@ class OrderViewSet(viewsets.ModelViewSet):
 
         return Response(self.get_serializer(order).data, status=status.HTTP_201_CREATED)
 
+    @transaction.atomic
+    def update(self, request, *args, **kwargs):
+        instance = self.get_object()
+        serializer = self.get_serializer(instance, data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response(serializer.data)
+
 
 # ---- Bake Sale Periods ----
 class BakeSalePeriodViewSet(viewsets.ModelViewSet):

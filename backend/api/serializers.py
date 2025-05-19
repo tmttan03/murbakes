@@ -34,8 +34,8 @@ class OrderSerializer(serializers.ModelSerializer):
     createdAt = serializers.DateTimeField(source="created_at", required=False)
     isPaid = serializers.BooleanField(source="is_paid", required=False)
     isPacked = serializers.BooleanField(source="is_packed", required=False)
-    packedItems = serializers.ListField(write_only=True, required=False)
-    packingNotes = serializers.CharField(write_only=True, required=False, allow_blank=True)
+    packedItems = serializers.ListField(required=False)
+    packingNotes = serializers.CharField(required=False, allow_blank=True)
 
     items = OrderItemSerializer(many=True, required=False)
 
@@ -60,11 +60,35 @@ class OrderSerializer(serializers.ModelSerializer):
 
         order = Order.objects.create(**validated_data)
 
+        order_items = []
         for item_data in items_data:
             product_id = item_data.pop("product")["id"]
-            OrderItem.objects.create(order=order, product_id=product_id, **item_data)
+            order_items.append(OrderItem(order=order, product_id=product_id, **item_data))
 
+        OrderItem.objects.bulk_create(order_items)
         return order
+
+    def update(self, instance, validated_data):
+        items_data = validated_data.pop("items", [])
+        validated_data.pop("packedItems", None)
+        validated_data.pop("packingNotes", None)
+        validated_data.pop("is_packed", None)
+
+        for attr, value in validated_data.items():
+            setattr(instance, attr, value)
+        instance.save()
+
+        if items_data:
+            instance.items.all().delete()
+
+            order_items = []
+            for item_data in items_data:
+                product_id = item_data.pop("product")["id"]
+                order_items.append(OrderItem(order=instance, product_id=product_id, **item_data))
+
+            OrderItem.objects.bulk_create(order_items)
+
+        return instance
 
 
 class BakeSalePeriodSerializer(serializers.ModelSerializer):
