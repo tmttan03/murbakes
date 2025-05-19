@@ -1,0 +1,1251 @@
+[
+    {
+        "id": "ORD-515",
+        "customerName": "Shaika",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            }
+        ],
+        "totalItems": 12,
+        "subtotal": 620,
+        "discount": 10,
+        "total": 610,
+        "createdAt": "2025-05-19T08:31:06.573Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-983",
+        "customerName": "Rica",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            }
+        ],
+        "totalItems": 6,
+        "subtotal": 310,
+        "discount": 0,
+        "total": 310,
+        "createdAt": "2025-05-19T08:31:18.357Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-524",
+        "customerName": "Kristian",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            }
+        ],
+        "totalItems": 12,
+        "subtotal": 620,
+        "discount": 10,
+        "total": 610,
+        "createdAt": "2025-05-19T08:31:33.537Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-504",
+        "customerName": "Ate Ghia",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "coco-chia",
+                "quantity": 10,
+                "price": 45,
+                "total": 450,
+                "packed": false
+            }
+        ],
+        "totalItems": 10,
+        "subtotal": 450,
+        "discount": 10,
+        "total": 440,
+        "createdAt": "2025-05-19T08:31:48.516Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-973",
+        "customerName": "Allan",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            }
+        ],
+        "totalItems": 6,
+        "subtotal": 310,
+        "discount": 0,
+        "total": 310,
+        "createdAt": "2025-05-19T08:33:15.073Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-134",
+        "customerName": "Thomas",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "coco-chia",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            }
+        ],
+        "totalItems": 6,
+        "subtotal": 290,
+        "discount": 0,
+        "total": 290,
+        "createdAt": "2025-05-19T08:33:35.908Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-832",
+        "customerName": "Jezza",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            }
+        ],
+        "totalItems": 12,
+        "subtotal": 620,
+        "discount": 10,
+        "total": 610,
+        "createdAt": "2025-05-19T08:33:49.153Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-119",
+        "customerName": "Ate Vanessa",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            }
+        ],
+        "totalItems": 6,
+        "subtotal": 310,
+        "discount": 0,
+        "total": 310,
+        "createdAt": "2025-05-19T08:34:04.541Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-490",
+        "customerName": "Ate Jennih",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "carrot-pecan-cake",
+                "quantity": 1,
+                "price": 260,
+                "total": 260,
+                "packed": false
+            },
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            }
+        ],
+        "totalItems": 7,
+        "subtotal": 570,
+        "discount": 0,
+        "total": 570,
+        "createdAt": "2025-05-19T08:34:21.805Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-887",
+        "customerName": "Kitkat",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "carrot-pecan-cake",
+                "quantity": 1,
+                "price": 260,
+                "total": 260,
+                "packed": false
+            }
+        ],
+        "totalItems": 7,
+        "subtotal": 570,
+        "discount": 0,
+        "total": 570,
+        "createdAt": "2025-05-19T08:34:32.829Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-879",
+        "customerName": "Janica",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 2,
+                "price": 45,
+                "total": 90,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            }
+        ],
+        "totalItems": 12,
+        "subtotal": 620,
+        "discount": 10,
+        "total": 610,
+        "createdAt": "2025-05-19T08:35:00.387Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-360",
+        "customerName": "Marcian",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            }
+        ],
+        "totalItems": 4,
+        "subtotal": 190,
+        "discount": 0,
+        "total": 190,
+        "createdAt": "2025-05-19T08:35:14.725Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-520",
+        "customerName": "Jean",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "carrot-pecan-cake",
+                "quantity": 2,
+                "price": 260,
+                "total": 520,
+                "packed": false
+            }
+        ],
+        "totalItems": 2,
+        "subtotal": 520,
+        "discount": 0,
+        "total": 520,
+        "createdAt": "2025-05-19T08:35:20.551Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-831",
+        "customerName": "Earl",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "carrot-pecan-cake",
+                "quantity": 1,
+                "price": 260,
+                "total": 260,
+                "packed": false
+            }
+        ],
+        "totalItems": 1,
+        "subtotal": 260,
+        "discount": 0,
+        "total": 260,
+        "createdAt": "2025-05-19T08:35:25.212Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-957",
+        "customerName": "Mimi",
+        "contactNumber": "For Sunday",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            }
+        ],
+        "totalItems": 6,
+        "subtotal": 310,
+        "discount": 0,
+        "total": 310,
+        "createdAt": "2025-05-19T08:35:37.111Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-410",
+        "customerName": "Mimi for Monday",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "carrot-pecan-cake",
+                "quantity": 3,
+                "price": 260,
+                "total": 780,
+                "packed": false
+            },
+            {
+                "productId": "og-walnut",
+                "quantity": 3,
+                "price": 50,
+                "total": 150,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 3,
+                "price": 60,
+                "total": 180,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 3,
+                "price": 45,
+                "total": 135,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 3,
+                "price": 50,
+                "total": 150,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 3,
+                "price": 45,
+                "total": 135,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 3,
+                "price": 60,
+                "total": 180,
+                "packed": false
+            }
+        ],
+        "totalItems": 21,
+        "subtotal": 1710,
+        "discount": 10,
+        "total": 1700,
+        "createdAt": "2025-05-19T08:36:16.317Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-154",
+        "customerName": "Ate Grace",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "carrot-pecan-cake",
+                "quantity": 1,
+                "price": 260,
+                "total": 260,
+                "packed": false
+            }
+        ],
+        "totalItems": 1,
+        "subtotal": 260,
+        "discount": 0,
+        "total": 260,
+        "createdAt": "2025-05-19T08:40:56.826Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-394",
+        "customerName": "Aprille",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            }
+        ],
+        "totalItems": 2,
+        "subtotal": 105,
+        "discount": 0,
+        "total": 105,
+        "createdAt": "2025-05-19T08:43:11.323Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-580",
+        "customerName": "Mitz",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            }
+        ],
+        "totalItems": 3,
+        "subtotal": 170,
+        "discount": 0,
+        "total": 170,
+        "createdAt": "2025-05-19T08:43:31.837Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-264",
+        "customerName": "Vanessa Reave",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "coco-chia",
+                "quantity": 3,
+                "price": 45,
+                "total": 135,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 3,
+                "price": 45,
+                "total": 135,
+                "packed": false
+            }
+        ],
+        "totalItems": 6,
+        "subtotal": 270,
+        "discount": 0,
+        "total": 270,
+        "createdAt": "2025-05-19T10:02:31.847Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-787",
+        "customerName": "Mercy",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "pecan-pie",
+                "quantity": 3,
+                "price": 60,
+                "total": 180,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 5,
+                "price": 45,
+                "total": 225,
+                "packed": false
+            },
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 5,
+                "price": 60,
+                "total": 300,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 5,
+                "price": 50,
+                "total": 250,
+                "packed": false
+            }
+        ],
+        "totalItems": 18,
+        "subtotal": 955,
+        "discount": 10,
+        "total": 945,
+        "createdAt": "2025-05-19T10:19:11.475Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-661",
+        "customerName": "Twan",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            }
+        ],
+        "totalItems": 3,
+        "subtotal": 145,
+        "discount": 0,
+        "total": 145,
+        "createdAt": "2025-05-19T10:25:06.908Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-698",
+        "customerName": "Karlo",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "pistachio-berry-cc",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            }
+        ],
+        "totalItems": 2,
+        "subtotal": 120,
+        "discount": 0,
+        "total": 120,
+        "createdAt": "2025-05-19T10:28:26.517Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-718",
+        "customerName": "Ate Vanessa c/o mama melbs",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "miso-choco-chip",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            }
+        ],
+        "totalItems": 5,
+        "subtotal": 250,
+        "discount": 0,
+        "total": 250,
+        "createdAt": "2025-05-19T12:05:22.048Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-417",
+        "customerName": "Ate Norjannah",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "pecan-pie",
+                "quantity": 4,
+                "price": 60,
+                "total": 240,
+                "packed": false
+            },
+            {
+                "productId": "og-walnut",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 2,
+                "price": 50,
+                "total": 100,
+                "packed": false
+            }
+        ],
+        "totalItems": 8,
+        "subtotal": 440,
+        "discount": 10,
+        "total": 430,
+        "createdAt": "2025-05-19T12:05:50.890Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-801",
+        "customerName": "Coach Jao",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "pecan-pie",
+                "quantity": 2,
+                "price": 60,
+                "total": 120,
+                "packed": false
+            }
+        ],
+        "totalItems": 2,
+        "subtotal": 120,
+        "discount": 0,
+        "total": 120,
+        "createdAt": "2025-05-19T12:28:18.697Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    },
+    {
+        "id": "ORD-905",
+        "customerName": "Van",
+        "contactNumber": "Facebook",
+        "isPickup": true,
+        "items": [
+            {
+                "productId": "carrot-pecan-cake",
+                "quantity": 1,
+                "price": 260,
+                "total": 260,
+                "packed": false
+            },
+            {
+                "productId": "og-walnut",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            },
+            {
+                "productId": "pecan-pie",
+                "quantity": 1,
+                "price": 60,
+                "total": 60,
+                "packed": false
+            },
+            {
+                "productId": "coco-chia",
+                "quantity": 1,
+                "price": 45,
+                "total": 45,
+                "packed": false
+            },
+            {
+                "productId": "pb-choco",
+                "quantity": 1,
+                "price": 50,
+                "total": 50,
+                "packed": false
+            }
+        ],
+        "totalItems": 5,
+        "subtotal": 465,
+        "discount": 0,
+        "total": 465,
+        "createdAt": "2025-05-19T13:12:49.367Z",
+        "status": "pending",
+        "isPaid": false,
+        "isPacked": false,
+        "packedItems": [],
+        "packingNotes": ""
+    }
+]

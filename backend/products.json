@@ -1,0 +1,72 @@
+[
+    {
+        "name": "OG Walnut",
+        "category": "nut",
+        "price": 50,
+        "stock": 45,
+        "initialStock": 70,
+        "image": "/placeholder.svg?height=100&width=100",
+        "isLimited": false,
+        "id": "og-walnut"
+    },
+    {
+        "name": "Pecan Pie",
+        "category": "nut",
+        "price": 60,
+        "stock": 31,
+        "initialStock": 60,
+        "image": "/placeholder.svg?height=100&width=100",
+        "isLimited": false,
+        "id": "pecan-pie"
+    },
+    {
+        "name": "Coco Chia",
+        "category": "oat",
+        "price": 45,
+        "stock": 29,
+        "initialStock": 70,
+        "image": "/placeholder.svg?height=100&width=100",
+        "isLimited": false,
+        "id": "coco-chia"
+    },
+    {
+        "name": "PB Choco",
+        "category": "nut",
+        "price": 50,
+        "stock": 34,
+        "initialStock": 60,
+        "image": "/placeholder.svg?height=100&width=100",
+        "isLimited": false,
+        "id": "pb-choco"
+    },
+    {
+        "name": "Miso Choco Chip",
+        "category": "new",
+        "price": 45,
+        "stock": 36,
+        "initialStock": 60,
+        "image": "/placeholder.svg?height=100&width=100",
+        "isLimited": false,
+        "id": "miso-choco-chip"
+    },
+    {
+        "name": "Pistachio Berry CC",
+        "category": "nut",
+        "price": 60,
+        "stock": 0,
+        "initialStock": 26,
+        "image": "/placeholder.svg?height=100&width=100",
+        "isLimited": false,
+        "id": "pistachio-berry-cc"
+    },
+    {
+        "name": "Carrot Pecan Cake",
+        "category": "new",
+        "price": 260,
+        "stock": 14,
+        "initialStock": 23,
+        "image": "/placeholder.svg?height=100&width=100",
+        "isLimited": false,
+        "id": "carrot-pecan-cake"
+    }
+]
